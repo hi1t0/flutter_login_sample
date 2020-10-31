@@ -1,16 +1,8 @@
 # login_sample
 
-A new Flutter project.
+Firebase、riverpod、state_notifier、freezedを用いたログイン実装のサンプル
+このままでは動きません。
+Firebaseの設定をしてからflutter runで起動してください。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebaseの設定はこちらがわかりやすいです。
+- [【Flutter実践】Firebase環境構築と、Firestoreのデータを取得してアプリで表示](https://www.youtube.com/watch?v=IiEsyHiIwxc&t=1329s)
